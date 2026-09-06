@@ -16,13 +16,13 @@
 Here are the technologies I work with:
 
 <p align="left">
-  <img src="https://githubusercontent.com" alt="c" width="40" height="40"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="cplusplus" width="40" height="40"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="java" width="40" height="40"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="html5" width="40" height="40"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="mysql" width="40" height="40"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="vscode" width="40" height="40"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="git" width="40" height="40"/>
+  <img src="https://shields.io" alt="C" />
+  <img src="https://shields.io" alt="C++" />
+  <img src="https://shields.io" alt="Java" />
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="MySQL" />
+  <img src="https://shields.io" alt="VS Code" />
+  <img src="https://shields.io" alt="Git" />
 </p>
 
 ---
