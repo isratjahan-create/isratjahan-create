@@ -1,42 +1,29 @@
-# Hi there, I'm Israt Jahan! 👋
+# 🌟 Welcome to My Tech Journey! 🌟
 
-<p align="center">
-  <img src="https://vercel.app" width="100%">
-</p>
+## 👋 Hi there, I'm Israt Jahan!
 
-### 💫 About Me
-- 🔭 I’m currently focused on sharpening my skills in **C++, Java, MySQL, and HTML**.
-- 📚 Studying at **United International University**
-- ⚡ Fun fact: I love logical problem solving and building things with code!
+I am a passionate computer science student and a tech enthusiast. I love logical problem-solving, exploring different programming languages, and building things with code!
+
+---
+
+### 🚀 About Me
+- 🔭 **Current Focus:** Sharpening my skills in C++, Java, MySQL, and HTML.
+- 📚 **Education:** Studying at **United International University**
+- ⚡ **Fun Fact:** I'm always excited to explore new software tools and setup configurations!
 
 ---
 
 ### 🛠️ Tech Stack & Skills
-Here are the programming languages and tools I have learned and am currently exploring:
 
-<p align="left">
-  <img src="https://shields.io" alt="C" />
-  <img src="https://shields.io" alt="C++" />
-  <img src="https://shields.io" alt="Java" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="MySQL" />
-  <img src="https://shields.io" alt="VS Code" />
-  <img src="https://shields.io" alt="GitHub Desktop" />
-  <img src="https://shields.io" alt="Git" />
-</p>
+* 💻 **Programming Languages:** C (Completed) | Java (Intermediate) | C++ (Learning)
+* 🌐 **Web Development:** HTML5 (Learning)
+* 🗄️ **Database Management:** MySQL (Learning)
+* ⚙️ **Tools & Platforms:** Visual Studio Code | GitHub Desktop | Git
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://vercel.app" height="150" alt="GitHub Stats" />
-  <img src="https://herokuapp.com" height="150" alt="GitHub Streak" />
-</p>
-
----
-
-### 📬 Connect with me
-- 📧 Email: **waisrat414@gmail.com**
+### 📬 Connect with Me
+- 📧 **Email:**waisrat414@gmail.com**
 
 ---
 <p align="center">
