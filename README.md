@@ -1,5 +1,8 @@
-# Hi there, I'm Israt Jahan! 👋 
-<img src="https://vercel.app" width="100%">
+# Hi there, I'm Israt Jahan! 👋
+
+<p align="center">
+  <img src="https://vercel.app" width="100%">
+</p>
 
 ### 💫 About Me
 - 🔭 I’m currently focused on sharpening my skills in **C++, Java, MySQL, and HTML**.
@@ -11,15 +14,20 @@
 ### 🛠️ Tech Stack & Skills
 Here are the programming languages and tools I have learned and am currently exploring:
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | ![C](https://shields.io) ![C++](https://shields.io) ![Java](https://shields.io) ![HTML5](https://shields.io) |
-| **Database** | ![MySQL](https://shields.io) |
-| **Tools** | ![VS Code](https://shields.io) ![GitHub Desktop](https://shields.io) ![Git](https://shields.io) |
+<p align="left">
+  <img src="https://shields.io" alt="C" />
+  <img src="https://shields.io" alt="C++" />
+  <img src="https://shields.io" alt="Java" />
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="MySQL" />
+  <img src="https://shields.io" alt="VS Code" />
+  <img src="https://shields.io" alt="GitHub Desktop" />
+  <img src="https://shields.io" alt="Git" />
+</p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 <p align="left">
   <img src="https://vercel.app" height="150" alt="GitHub Stats" />
   <img src="https://herokuapp.com" height="150" alt="GitHub Streak" />
