@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="mailto:waisrat414@gmail.com"><img src="https://shields.io"/></a>
-  <a href="https://www.facebook.com/share/1EwuGhTGga/?mibextid=wwXIfr"><img src="https://shields.io"/></a>
+  <a href="https://facebook.com"><img src="https://shields.io"/></a>
 </p>
 
 ### 💻 About Me
