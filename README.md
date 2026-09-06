@@ -1,9 +1,10 @@
 # Hi 👋, I'm Israt Jahan!
 
-<p align="center">
-  <a href="mailto:waisrat414@gmail.com"><img src="https://shields.io"/></a>
-  <a href="https://facebook.com"><img src="https://shields.io"/></a>
-</p>
+### 📬 Connect with Me
+- 📧 **Email:** waisrat414@gmail.com
+- 🌐 **Facebook:** https://facebook.com
+
+---
 
 ### 💻 About Me
 - 🎓 **I'm currently studying Computer Science and Engineering (CSE) at United International University (UIU).**
@@ -15,15 +16,10 @@
 ### 🛠️ Languages & Tools
 Here are the technologies I work with:
 
-<p align="left">
-  <img src="https://shields.io" alt="C" />
-  <img src="https://shields.io" alt="C++" />
-  <img src="https://shields.io" alt="Java" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="MySQL" />
-  <img src="https://shields.io" alt="VS Code" />
-  <img src="https://shields.io" alt="Git" />
-</p>
+* 🖥️ **Programming Languages:** C | C++ | Java
+* 🌐 **Web Development:** HTML5
+* 🗄️ **Database Management:** MySQL
+* ⚙️ **Tools & Platforms:** Visual Studio Code | GitHub Desktop | Git
 
 ---
 <p align="center">
